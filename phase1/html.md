@@ -43,6 +43,6 @@ You submit this project by pushing your code to your project repo on GitHub. Ple
 - [Asking Questions and Getting Help][help]
 - [Using Visual Studio Code][vs-code]
 - [HTML notes]({{ site.team_notes_repo }}/blob/main/html.md)
-- [Git and Command Line]({% link references/git-and-cli.md %})
+- [Git Notes]({% link references/git.md %})
 
 {% include reference_links.md %}
