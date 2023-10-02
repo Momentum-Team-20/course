@@ -17,7 +17,7 @@ published: true
 
 ## ✅ TODO today
 
-1. Fill out your first [self-assessment](https://classroom.momentumlearn.com).
+1. Fill out your first [self-assessment](https://teams.momentumlearn.com).
 2. Read the [student guidelines](https://github.com/momentumlearn/student-resources/blob/main/articles/student-guidelines.md) and [how we work remotely](https://github.com/momentumlearn/student-resources/blob/master/articles/working-remotely.md) docs in their entirety.
 3. [Make sure your computer is all set up and ready to go][computer-setup].
 4. Read the [Really friendly command-line intro](https://drive.google.com/open?id=1E4ALJrjclTYE4C6lwIV517-SOXiZ-Dqb).
