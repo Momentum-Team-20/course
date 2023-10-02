@@ -1,7 +1,7 @@
 
 git_it:
-  url: https://github.com/jlord/git-it-electron
-  due_date:
+  url: git clone https://github.com/momentumlearn/git-it-electron.git
+  due_date: 2023-10-03
 html_small_business:
   url: https://classroom.github.com/a/XNxyGiQf
   due_date:

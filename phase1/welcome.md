@@ -5,7 +5,7 @@ topic: The Command Line and Git
 category: phase1
 parent: Phase 1 Front End
 nav_order: 1
-published: false
+published: true
 ---
 
 ## Today's topics
@@ -28,14 +28,10 @@ published: false
 
 Complete [Git-It](https://github.com/jlord/git-it-electron), a tutorial program that will walk you through the basics of Git and GitHub.
 
-To install it, run:
-`brew install git-it`
-
-This should put the Git-it program in your `/Applications` folder. You can start it by pressing command-spacebar on your Mac and typing "git-it" and hitting return when you see the icon.
-
-Git-it will tell you to install Github Desktop. You do not have to install this, although you can if you want. We won't be using it in class.
-
-The first time you run Git-it, you may get a notice that the application is from an unknown developer. If you do, right-click on the application and then choose "Open." You will be presented with a dialog -- choose to run the application.
+To install it, `cd` into the directory where you will keep your Momentum work and run this command: `git clone https://github.com/momentumlearn/git-it-electron.git` This will create a new directory called git-it-electron. cd into this new directory and run the following commands one at a time: 
+`npm install`
+`npm start` 
+This should open up the Git-It application on your desktop, and you can follow the instructions inside the application from here in order to complete it.
 
 Once the application is running, read the instructions and complete the tasks in Git-it. Completion of the project is the link to the pull request that you will make in the second-to-last Git-It task.
 

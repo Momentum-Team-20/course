@@ -1,15 +1,15 @@
 - title: Git and the Command Line
   phase: 1
-  date: 2022-05-16
+  date: 2022-10-02
   project_name: git_it
   code_demo:
-  published: false
+  published: true
 - title: HTML
   phase: 1
   date: 2022-05-17
   project_name: html_small_business
   code_demo: html-bears
-  published: false
+  published: false03
 - title: CSS Basics
   phase: 1
   date: 2022-05-18

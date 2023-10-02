@@ -21,19 +21,19 @@ exclude: ["Gemfile", "Gemfile.lock", "LICENSE", ".jekyll-cache", ".sass-cache", 
 enable_copy_code_button: true
 
 # ***** Team-specific settings  ***** EDIT THESE WHEN YOU CLONE A NEW REPO
-title: Momentum Team X Course Site
-team_name: "Team X"
-url: 'https://momentum-team-X.github.io'
+title: Momentum Team 20 Course Site
+team_name: "Team 20"
+url: 'https://momentum-team-20.github.io'
 team_github_org: &github_org
-    'https://github.com/momentum-team-X'
-team_notes_repo: 'https://github.com/momentum-team-X/notes'
-zoom_link: 'https://us02web.zoom.us/j/81070622688'
+    'https://github.com/momentum-team-20'
+team_notes_repo: 'https://github.com/momentum-team-20/notes'
+zoom_link: 'https://us02web.zoom.us/j/89451654454?pwd=TEE3bkphQjNPQ1Z4Y2NueHFKVUxzUT09'
 zoom_coworking_link: 'https://us02web.zoom.us/j/705824048'
 
 # content settings
 # these are used in references/computer-setup-apple-silicon.md and references/computer-setup-intel.md
 latest_mac_os_name: 'Ventura'
-latest_mac_os_num: '13'
+latest_mac_os_num: '13.5'
 latest_mac_os_compatibility_link: 'https://support.apple.com/en-us/HT213264'
 
 # Theme settings
@@ -43,7 +43,7 @@ search_enabled: true
 heading_anchors: true
 permalink: pretty
 aux_links:
-  "Team X on GitHub":
+  "Team 20 on GitHub":
     - *github_org
 aux_links_new_tab: true
 back_to_top: true
