@@ -11,6 +11,8 @@ published: false
 - Learn about HTML tags and elements
 - Create a page with HTML
 
+## ADDING THIS FOR ILLUSTRATION PURPOSES 😳
+
 ## Intro to GitHub Classroom
 
 We are using a tool called GitHub classroom during this course. For each project, GitHub classroom will generate a repository (repo) on GitHub for each person to work in.
