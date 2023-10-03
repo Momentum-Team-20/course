@@ -3,7 +3,7 @@ layout: post
 title: HTML
 parent: Phase 1 Front End
 nav_order: 2
-published: false
+published: true
 ---
 
 ## Objectives
@@ -43,6 +43,6 @@ You submit this project by pushing your code to your project repo on GitHub. Ple
 - [Asking Questions and Getting Help][help]
 - [Using Visual Studio Code][vs-code]
 - [HTML notes]({{ site.team_notes_repo }}/blob/main/html.md)
-- [Git Notes]({% link references/git.md %})
+- [Git Notes]({% link references/git-and-cli.md %})
 
 {% include reference_links.md %}
