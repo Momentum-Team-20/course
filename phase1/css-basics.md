@@ -4,7 +4,7 @@ title: 'CSS: The Basics'
 tags: phase-1 css
 parent: Phase 1 Front End
 nav_order: 3
-published: false
+published: true
 ---
 
 ## Objectives

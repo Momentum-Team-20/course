@@ -4,7 +4,7 @@ title: JavaScript Basics
 tags: phase-1 javascript js programming-basics
 parent: Phase 1 Front End
 nav_order: 5
-published: false
+published: true
 ---
 
 ## Objectives
@@ -24,7 +24,7 @@ Español:
 
 ### ✅ TODO Today
 
-1. Log in to [http://classroom.momentumlearn.com](http://classroom.momentumlearn.com) and complete your self-evaluation from last week if you have not yet.
+1. Log in to [http://teams.momentumlearn.com](http://teams.momentumlearn.com) and complete your self-evaluation from last week if you have not yet.
 
 ## 🔖 References
 

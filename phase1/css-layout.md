@@ -3,7 +3,7 @@ layout: post
 title: 'CSS: Layout'
 parent: Phase 1 Front End
 nav_order: 4
-published: false
+published: true
 ---
 
 ## Objectives
