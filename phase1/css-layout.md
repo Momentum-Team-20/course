@@ -13,7 +13,7 @@ published: true
 
 ## 🎯 Weekend Project: Dog Adoption
 
-Continue working on your dog adoption website project. It's due on {{ site.data.projects.due_date | date: "%A, %B %e" }}.
+Continue working on your dog adoption website project. It's due on {{ site.data.phase1.projects.css_dog_adoption.due_date | date: "%A, %B %e" }}.
 
 ## 🔖 References
 

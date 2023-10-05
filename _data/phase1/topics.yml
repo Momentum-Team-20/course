@@ -15,6 +15,7 @@
   date: 2023-10-04
   project_name: css_dog_adoption
   code_demo:
+  page: phase1/css-layout.md
   published: true
 - title: CSS Layout
   phase: 1
