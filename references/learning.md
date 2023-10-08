@@ -8,7 +8,8 @@ layout: resource_list
 ## Mindset
 
 - [So You Want to Be a Wizard](https://jvns.ca/wizard-zine.pdf)
-- [Podcast on learning to code with the founder of Code Newbie, Saron Yitbarek](https://devchat.tv/ruby-rogues/159-rr-hacking-education-with-saron-yitbarek/)
+- [Podcast on learning to code with the founder of Code Newbie, Saron Yitbarek](https://topenddevs.com/podcasts/ruby-rogues/episodes/159-rr-hacking-education-with-saron-yitbarek)
+- [Syntax.fm Podcast: Advice for New Devs](https://syntax.fm/show/382/advice-for-new-devs)
 
 ## 💁 Asking Questions + Getting Help
 
