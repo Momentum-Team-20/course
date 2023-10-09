@@ -17,10 +17,10 @@ published: true
 First half due {{ site.data.projects.js_free_code_camp.due_date}}
 
 English:
-[JavaScript practice exercises]({{ site.data.projects.js_freecodecamp.url }}), from the beginning through "Shopping List" for tomorrow morning.
+[JavaScript practice exercises]({{ site.data.phase1.projects.js_freecodecamp.url }}), from the beginning through "Shopping List" for tomorrow morning.
 
 Español:
-[Los mismos ejercisios en Español]({{ site.data.projects.js_freecodecamp_espanol.url }}) de 'Comenta tu código' a 'Lista de Compras' antes del martes por la mañana.
+[Los mismos ejercisios en Español]({{ site.data.phase1.projects.js_freecodecamp_espanol.url }}) de 'Comenta tu código' a 'Lista de Compras' antes del martes por la mañana.
 
 ### ✅ TODO Today
 
