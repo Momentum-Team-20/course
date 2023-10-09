@@ -1,7 +1,9 @@
 html-bears:
-  url: https://github.com/momentum-team-x/example--html
+  url: https://github.com/momentum-team-20/example--html
 css-flexbox:
   url: https://github.com/Momentum-Team-20/css-pets-example.git
+js_intro:
+  url: https://github.com/Momentum-Team-20/example-intro-js
 js_variables:
   video_url: https://vimeo.com/showcase/7220986/video/426872305
 js_types:
