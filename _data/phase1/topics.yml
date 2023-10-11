@@ -26,26 +26,26 @@
   phase: 1
   date: 2023-10-09
   project_name: js_calculator
-  code_demo:
+  code_demo: js_intro
   published: true
 - title: JavaScript Loops & Functions
   phase: 1
-  date: 2022-05-24
+  date: 2023-10-10
   project_name: js_calculator_2
   code_demo: radius_example_codepen
-  published: false
+  published: true
 - title: JavaScript Arrays
   phase: 1
-  date: 2022-05-25
+  date: 2023-10-11
   project_name:
-  code_demo:
-  published: false
+  code_demo: js_arrays
+  published: true
 - title: JS & the DOM
   phase: 1
-  date: 2022-05-26
+  date: 2022-10-12
   project_name:
   code_demo:
-  published: false
+  published: true
 - title: JavaScript Objects
   phase: 1
   date: 2022-05-31

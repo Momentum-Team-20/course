@@ -4,7 +4,7 @@ title: JavaScript Arrays
 tags: phase-1 javascript js arrays
 parent: Phase 1 Front End
 nav_order: 7
-published: false
+published: true
 ---
 
 ## Objectives
@@ -15,7 +15,7 @@ published: false
 
 ## 🎯 Project
 
-[JS Calculator Part 1]({{ site.data.projects.js_calculator_1.url }})
+[JS Calculator]({{ site.data.projects.js_calculator.url }})
 
 ## 🔖 References
 
