@@ -62,7 +62,7 @@
 - title: AJAX & APIs
   phase: 1
   date: 2023-10-18
-  project_name: 
+  project_name: ajax_mytunes
   page: phase1/js-ajax.md
   code_demo:
   published: true
