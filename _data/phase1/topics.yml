@@ -54,18 +54,18 @@
   published: true
 - title: JavaScript Objects
   phase: 1
-  date: 2022-10-16
+  date: 2023-10-16
   project_name: js_customers
   page: phase1/js-objects.md
   code_demo:
   published: true
 - title: AJAX & APIs
   phase: 1
-  date: 2022-10-17
-  project_name:
+  date: 2023-10-18
+  project_name: 
   page: phase1/js-ajax.md
   code_demo:
-  published: false
+  published: true
 - title: JS and Forms
   phase: 1
   date: 2022-10-18

@@ -25,3 +25,6 @@ ajax_github_profile:
 ajax_currency_converter:
   url: https://classroom.github.com/a/HFS8gTsM
   due_date:
+ajax_mytunes:
+  url: https://classroom.github.com/a/ZjfKzELl
+  due_date: 2023-10-23

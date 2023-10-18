@@ -4,7 +4,7 @@ title: Getting Data Using APIs with JS and Fetch
 tags: phase-1 javascript js fetch api json ajax
 parent: Phase 1 Front End
 nav_order: 10
-published: false
+published: true
 ---
 
 ## Objectives
@@ -16,12 +16,9 @@ published: false
     - Make GET requests with Insomnia client
     - Make GET requests using the Fetch API and display response data on a page
 
-## 🎯 Project: Choose Your Own Adventure
+## 🎯 Project: MyTunes
 
-Your project is to do _one_ of the following projects. Whichever you choose, it will be due on {{ site.data.projects.ajax_github_profile.due_date }}.
-
-- 🌶 [AJAX GitHub profile]({{ site.data.projects.ajax_github_profile.url }})
-- 🌶🌶 [AJAX Currency Converter]({{ site.data.projects.ajax_currency_converter.url }})
+- [MyTunes](https://classroom.github.com/a/ZjfKzELl)
 
 ## 🔖 References
 
