@@ -4,15 +4,13 @@ title: JavaScript and Forms
 tags: phase-1 javascript js forms validation
 parent: Phase 1 Front End
 nav_order: 11
-published: false
+published: true
 ---
 
 
 ## Objectives
 
-- HTML forms
-- Working with form data in JavaScript
-- Client-side form validation with JavaScript
+- Practice/Review JS Concepts
 
 ## 🎬 End of Phase Technical Presentations
 
@@ -46,9 +44,11 @@ Please post your video and share the url for it using [this form](https://forms.
 
 ## 🎯 Project
 
-- We will work on this project together during our team meeting, in addition to the other time you'll spend working on the project.
-- Everyone needs to turn in code.
-- [Project Invitation Link](https://classroom.github.com/a/9UqyoVCu)
+- We will work on this project together during class using team coding. 
+- Outside of class, work on
+    - finalizing projects from this phase
+    - practicing JS with Exercism
+- [Team Memory Game](https://github.com/Momentum-Team-20/js-memory-team-coding)
 
 ## 🔖 References
 
