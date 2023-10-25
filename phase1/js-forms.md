@@ -25,7 +25,7 @@ The presentations at the end of this phase will be in the form of a short presen
 ~ 3 min - pick a couple of elements of the code that you want to explain line by line and show what you learned in the process
 ~ 1 min - a challenge you encountered in the project and how you got through it
 
-**Your presentations will be at 11am, this Friday, Oct 27.**
+**Your presentations will be at 2pm, this Thursday, Oct 26.**
 
 ## ✅ Requirements for passing the phase
 
