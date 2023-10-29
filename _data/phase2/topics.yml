@@ -1,9 +1,10 @@
 - title: Welcome to Python
   phase: 2
-  date: 2022-06-13
+  date: 2023-10-29
   page: phase2/welcome.md
   project_name:
   code_demo:
+  published: true
 - title: Python Conditionals and Loops
   phase: 2
   date: 2022-06-14
