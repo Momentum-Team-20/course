@@ -3,7 +3,7 @@
   date: 2023-10-29
   page: phase2/welcome.md
   project_name:
-  code_demo:
+  code_demo: py_basics
   published: true
 - title: Python Conditionals and Loops
   phase: 2

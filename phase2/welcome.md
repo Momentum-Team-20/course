@@ -80,6 +80,4 @@ These articles are way more in-depth than you need right now, but they are good 
 
 ## 🦉 Code & Notes
 
-- [Notes: Intro to Python]({{ site.team_notes_repo }}/blob/main/intro-python.md)
-- [Notebooks Prequel: the Force Awakens]({{ site.team_notes_repo }}/blob/main/python-notebooks-prequel.md)
-- [Intro to Python notebooks](https://github.com/Momentum-Team-20/python-notebooks) (**Notebooks 1-5**)
+- [Notes: Intro to Python]({{ site.team_notes_repo }}/blob/main/py-intro.md)
