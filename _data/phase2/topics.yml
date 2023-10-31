@@ -14,10 +14,11 @@
   published: true
 - title: Python Lists and Dictionaries
   phase: 2
-  date: 2022-06-15
+  date: 2023-11-01
   page: phase2/py-lists-and-dicts.md
-  project_name:
-  code_demo: #
+  project_name: py-mystery-word
+  code_demo: 
+  published: true
 - title: Python List Comprehensions and Lambdas
   phase: 2
   date: 2022-06-16

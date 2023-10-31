@@ -6,7 +6,7 @@ topic: Python
 category: phase2
 parent: Phase 2 Back End
 nav_order: 3
-published: false
+published: true
 ---
 
 ## Objectives
@@ -15,10 +15,6 @@ published: false
 - Tuples
 - Lists and list comprehensions
 
-<!-- ## 🐍 Code Break
-
-- [Try working with lists]({% link code_exercises/py-lists.md %})
-- [Practice with list comprehensions]({% link code_exercises/py-list-comprehensions.md %}) -->
 
 ## 🎯 Project
 
