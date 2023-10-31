@@ -15,14 +15,14 @@ published: false
 - Tuples
 - Lists and list comprehensions
 
-## 🐍 Code Break
+<!-- ## 🐍 Code Break
 
 - [Try working with lists]({% link code_exercises/py-lists.md %})
-- [Practice with list comprehensions]({% link code_exercises/py-list-comprehensions.md %})
+- [Practice with list comprehensions]({% link code_exercises/py-list-comprehensions.md %}) -->
 
 ## 🎯 Project
 
-Begin the project,[Word Frequency](https://classroom.github.com/a/MjaCZHGY) . A **dictionary** will help you solve the problem of counting words. This will be due on Tuesday, 6/21.
+Begin the project,[Word Frequency](https://classroom.github.com/a/jfebMgtV) . A **dictionary** will help you solve the problem of counting words. This will be due on Thursday, 11/02.
 
 At _minimum_ you should be able to count words and print that count, even if the formatting of your output is not 100% on point.
 
