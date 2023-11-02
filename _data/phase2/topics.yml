@@ -21,10 +21,11 @@
   published: true
 - title: Python List Comprehensions and Lambdas
   phase: 2
-  date: 2022-06-16
+  date: 2023-11-02
   page: phase2/py-list-comps.md
   project_name:
-  code_demo: #
+  code_demo: 
+  published: true
 - title: Object-Oriented Programming in Python
   phase: 2
   date: 2022-06-22

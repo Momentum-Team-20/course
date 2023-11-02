@@ -6,25 +6,20 @@ topic: Python
 category: phase2
 parent: Phase 2 Back End
 nav_order: 4
-published: false
+published: true
 ---
 
 ## Today's topics
 
 - List Comprehensions
-  - [Repl.it from class](https://replit.com/@rlconley/ListComp)
+  - [Repl.it from class](https://replit.com/@rlconley/LambdaAndListComp)
 - Lambda functions
 - More breaking down problems
 
 ## 🎯 Project
 
-- Due Thursday morning, we will work on [Mystery Word](https://classroom.github.com/a/pcd8dBoN) in teams in class.
+- Due Monday Morning, [Mystery Word](https://classroom.github.com/a/A0jac1m5) 
 
-- Also by Thursday Morning, please complete the Object Oriented Programming modules in [Thinkific](https://momentumlearn.thinkific.com/manage/courses/1739105/contents/32705516):
-  - Object Oriented Python
-  - Classes and Objects
-  - An OOP cat
-  - Create Individual Objects From a Class
 
 ## 🔖 Resources
 
@@ -34,5 +29,5 @@ published: false
 
 ## 🦉 Code & Notes
 
-- [Jupyter Notebooks](https://github.com/Momentum-Team-13/python-notebooks) **Notebooks 13-15**
+- [Jupyter Notebooks](https://github.com/Momentum-Team-20/python-notebooks) **Notebooks 13-15**
 
