@@ -28,10 +28,11 @@
   published: true
 - title: Object-Oriented Programming in Python
   phase: 2
-  date: 2022-06-22
+  date: 2023-11-06
   page: phase2/py-oop.md
   project_name:
   code_demo: #
+  published: true
 - title: Getting Used to Working in Django
   phase: 2
   date: 2022-06-27
