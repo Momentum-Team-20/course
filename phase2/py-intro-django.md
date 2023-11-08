@@ -22,8 +22,9 @@ Today we develop our mental model of Django, understanding what it does and how 
 ## 🎯 Project: MDN Tutorial
 Due: Monday, Nov. 13
 **Note: skip everything about setting up the virtual environment
-and instead do**
-`pipenv install django`
+and instead do**  
+
+`pipenv install django`  
 `pipenv shell`
 
 - [MDN: Django Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
