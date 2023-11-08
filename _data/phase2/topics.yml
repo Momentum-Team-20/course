@@ -35,10 +35,11 @@
   published: true
 - title: Getting Used to Working in Django
   phase: 2
-  date: 2022-06-27
+  date: 2023-11-08
   page: phase2/py-intro-django.md
   project_name:
   code_demo: #
+  published: true
 - title: Django CRUD
   phase: 2
   date: 2022-07-01

@@ -6,7 +6,7 @@ topic: Python
 category: phase2
 parent: Phase 2 Back End
 nav_order: 6
-published: false
+published: true
 ---
 
 
@@ -19,27 +19,15 @@ Today we develop our mental model of Django, understanding what it does and how 
 - Django models and the database
 - Dealing with errors
 
-## 🎯 Project: Uptact
+## 🎯 Project: MDN Tutorial
+Due: Monday, Nov. 13
+- [MDN: Django Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
+- [MDN: Introducción a Django (Español)](https://developer.mozilla.org/es/docs/Learn/Server-side/Django/Introduction)
 
-When you start your first dev job, you will see a lot of code all at once and will have to be able to read it and understand what it does so that you can modify and add to it.
-
-In this project you will do just that: modify existing code to augment its functionality. This is **due Wednesday morning**.
-
-Each person should accept the project invitation and work in their own repo, but **please work on this project with your assigned buddies.** Buddy groups are welcome to combine and unite forces. The point is: nobody should struggle alone.
-
-For each part of the project, talk over with your buddies how you each think you can accomplish the tasks. **Be willing to try things your buddy suggests even if you aren't sure it's right!** You will learn a lot by seeing what happens (and what doesn't) when you make changes.
-
-Talking it through will help clarify your understanding of how Django works, and having a buddy around will be helpful when you inevitably run into errors.
-
-You will join your code buddies in breakout rooms this morning.
-
-👉 [Django Uptact](https://classroom.github.com/a/3_JabTeg)
 
 ## 🔖 Resources
 
 - [Thinkific Django](https://momentumlearn.thinkific.com/courses/take/back-end-development-with-python-and-django/texts/32618875-what-is-django)
-- [MDN: Django Introduction](https://developer.mozilla.org/en-US/docs/Learn/Server-side/Django/Introduction)
-- [MDN: Introducción a Django (Español)](https://developer.mozilla.org/es/docs/Learn/Server-side/Django/Introduction)
 - [Official Django documentation](https://docs.djangoproject.com/en/4.0/)
 - [Documentación de Django (Español)](https://docs.djangoproject.com/es/4.0/)
 - [Django Topic Guide](https://docs.djangoproject.com/en/4.0/topics/) (this is a useful table of contents for the Django docs)
@@ -58,4 +46,3 @@ You will join your code buddies in breakout rooms this morning.
 
 - [Notes - Tour of a Django App]({{ site.team_notes_repo }}/blob/main/django-tour.md)
 - [A diagram of Django's structure]({{ site.team_notes_repo }}/blob/main/django-diagram.md)
-- [Django Girls app with pipenv](https://github.com/Momentum-Team-13/example-django-girls-with-pipenv)
