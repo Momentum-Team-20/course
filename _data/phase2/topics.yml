@@ -38,7 +38,7 @@
   date: 2023-11-08
   page: phase2/py-intro-django.md
   project_name:
-  code_demo: #
+  code_demo: django-starter-app
   published: true
 - title: Django CRUD
   phase: 2

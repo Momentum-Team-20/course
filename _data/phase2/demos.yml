@@ -1,2 +1,4 @@
 py-basics:
   url: https://github.com/Momentum-Team-20/example-py-intro.git
+django-starter-app:
+  url: https://github.com/Momentum-Team-20/example-django-games.git
