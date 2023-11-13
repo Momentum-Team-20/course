@@ -42,10 +42,11 @@
   published: true
 - title: Django CRUD
   phase: 2
-  date: 2022-07-01
+  date: 2023-11-13
   page: phase2/py-django-crud.md
-  project_name:
+  project_name: django-music
   code_demo: #
+  published: true
 - title: Django Wrap Up 🎬
   phase: 2
   date: 2022-07-06

@@ -6,7 +6,7 @@ topic: Python
 category: phase2
 parent: Phase 2 Back End
 nav_order: 7
-published: false
+published: true
 ---
 
 
@@ -22,12 +22,13 @@ Build a CRUD application from scratch. This app should let you catalog your musi
 - Update
 - Delete
 
-This is due on **Tuesday**.
+This is due on **Thursday Morning**. We will spend some time in class working on it.
 
-[Django Music](https://classroom.github.com/a/W3eUzsYy)
+[Django Music](https://classroom.github.com/a/-DKuX6Ng)
 
 ## 🔖 Resources
 
+- [Extending the User model](https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html)
 - [Database Design Tutorial](https://learndjango.com/tutorials/database-design-tutorial-beginners) _This is a great short article that is really an intro to databases. It covers some data best practices and explains primary keys, foreign keys, and relationships._
 - [Django Docs Model Relationships](https://docs.djangoproject.com/en/4.0/topics/db/models/#relationships)
 - [Django Docs URLs](https://docs.djangoproject.com/en/4.0/topics/http/urls/)
@@ -40,7 +41,6 @@ This is due on **Tuesday**.
 
 🌶🌶🌶 Useful for the spicy options:
 - [Foreign Key to built-in User from DjangoGirls](https://tutorial.djangogirls.org/en/django_models/#creating-a-blog-post-model)
-- [Extending the User model (preferred, used in Uptact)](https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html)
 - [Uploading Images](https://djangocentral.com/uploading-images-with-django/)
 
 ### Forms
@@ -57,4 +57,5 @@ This is due on **Tuesday**.
 
 - [Team 13 Diagram of Django]({{ site.team_notes_repo }}/blob/main/django-map.md)
 - [Django shell notes]({{ site.team_notes_repo }}/blob/main/django-shell.md)
-- [Django Uptact, with finished tasks](https://github.com/Momentum-Team-13/django-uptact-complete-features)
+- [Django Users Notes]({{ site.team_notes_repo }}/blob/main/django-users.md)
+
