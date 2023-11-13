@@ -45,7 +45,7 @@
   date: 2023-11-13
   page: phase2/py-django-crud.md
   project_name: django-music
-  code_demo: #
+  code_demo: django-app-with-users
   published: true
 - title: Django Wrap Up 🎬
   phase: 2
