@@ -52,7 +52,7 @@
   date: 2023-11-16
   project_name: django_flashcards
   page: phase2/py-django-level-up.md
-  code_demo: 
+  code_demo: django_music
   published: true
 - title: Django Wrap Up 🎬
   phase: 2
