@@ -54,6 +54,13 @@
   page: phase2/py-django-level-up.md
   code_demo: django_music
   published: true
+- title: Django Views and Related Models
+  phase: 2
+  date: 2023-11-20
+  project_name: django_flashcards
+  page: phase2/py-django-views-and-related-models.md
+  code_demo: django_flashcards
+  published: true
 - title: Django Wrap Up 🎬
   phase: 2
   date: 2022-11-20
