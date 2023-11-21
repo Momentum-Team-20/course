@@ -61,6 +61,13 @@
   page: phase2/py-django-views-and-related-models.md
   code_demo: django_flashcards
   published: true
+- title: 🍔 Django with a Side of JavaScript 🍟
+  phase: 2
+  date: 2023-11-21
+  project_name: django_flashcards
+  page: phase2/py-django-with-js.md
+  code_demo: django_flashcards
+  published: true
 - title: Django Wrap Up 🎬
   phase: 2
   date: 2022-11-20
