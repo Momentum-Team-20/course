@@ -10,8 +10,4 @@ nav_order: 2
 
 {: .pt-3 .home-posts-headline }
 
-{% assign daily_posts = site.daily_posts | reverse %}
-{% for post in daily_posts %}
-{{post.url}}
-{{ post }}
-{% endfor %}
+{% assign daily_posts = site.daily_posts | reverse %} {% for post in daily_posts %} {{ post }} {% endfor %}
