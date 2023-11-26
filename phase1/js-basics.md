@@ -29,7 +29,7 @@ Español:
 ## 🔖 References
 
 - [The mindset for learning to code][mindset]
-- [JS Basics]({% link references/js-basics.md %})
+- [JS Basics]({% link references/js-general.md %})
 - [Truthy & Falsy in JS][js-truthy-falsy]
 - [Intro to JS Notes/Slides]({{ site.team_notes_repo }}/blob/main/intro-js.md)
 
