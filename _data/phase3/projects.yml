@@ -1,46 +1,53 @@
 # phase 3 backend
 habit_tracker:
-  url: https://classroom.github.com/a/rm1pmmw2
-  due_date: 2023-01-23
+  url:
+  due_date:
 drf_tutorial:
-  url: https://classroom.github.com/a/hOPpckm5
-  due_date: 2023-01-24
+  url:
+  due_date:
 drf_tutorial_guide:
-  url: https://learndjango.com/tutorials/official-django-rest-framework-tutorial-beginners
-  due_date: 2023-01-26
+  url:
+  due_date:
 drf_choose_your_own_adventure:
-  url: https://classroom.github.com/a/NN3iTcDR
-  due_date: 2023-01-30
+  url:
+  due_date:
 drf_library_api:
-  url: https://classroom.github.com/a/GQDYHpsY
-  due_date: 2023-01-30
+  url:
+  due_date:
 
 # phase 3 frontend
 js_exercism:
   url: https://exercism.org/tracks/javascript
-  due_date: 2023-01-18
+  due_date: 2023-11-28
 react_beginner_tutorial:
-  url: https://classroom.github.com/a/lg-JhqKP
-  due_date: 2023-01-19
+  url: https://classroom.github.com/a/SE_dwyYL
+  due_date: 2023-11-28
 react_freeshelf:
-  url: https://classroom.github.com/a/uuQaCKzZ
-  due_date: 2023-01-23
-react_slideshow:
-  url: https://classroom.github.com/a/IBIHbWYp
-  due_date: 2023-01-23
+  url:
+  due_date:
+react_slides:
+  url:
+  due_date:
+react_memory_game:
+  url:
 react_trivia:
-  url: https://classroom.github.com/a/TV0TFSfK
-  due_date: 2023-01-30
+  url:
+  due_date:
+react_job_search:
+  url:
+react_color_palettes:
+  url:
+  due_date:
 
 # phase 3 collab
 collaborative_project:
-  url: https://classroom.github.com/a/72vMj6Gn
-  due_date: 2023-02-09
+  url: https://classroom.github.com/a/AQynT_Cl
+  due_date:
+  due_time: '3:00 pm'
 social-e-cards:
-  url: https://classroom.github.com/a/8qst-ncj
-  due_date: 2023-02-09
+  url: https://classroom.github.com/a/AQynT_Cl
+  due_date:
 questionbox:
-  url: https://classroom.github.com/a/0rinW2aa
-  due_date: 2023-02-09
-phase_3_video_presentation:
-  due_date: 2023-02-10
+  url: https://classroom.github.com/a/AQynT_Cl
+  due_date:
+video_presentations:

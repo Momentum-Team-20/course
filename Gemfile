@@ -7,7 +7,7 @@ source 'https://rubygems.org'
 #
 # This will help ensure the proper Jekyll version is running.
 # Happy Jekylling!
-gem "jekyll", "~> 4.2.2"
+gem "jekyll", "~> 4.3.2"
 
 
 # If you want to use GitHub Pages, remove the "gem "jekyll"" above and
@@ -18,6 +18,7 @@ group :jekyll_plugins do
   gem "jekyll-feed"
   gem "jekyll-remote-theme"
   gem "jekyll-seo-tag"
+  gem "jekyll-include-cache"
 end
 
 # Windows and JRuby does not include zoneinfo files, so bundle the tzinfo-data gem
@@ -34,5 +35,5 @@ gem "wdm", "~> 0.1.1", :platforms => [:mingw, :x64_mingw, :mswin]
 # do not have a Java counterpart.
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
 
-gem "webrick", "~> 1.7"
 gem "rake"
+gem "webrick", "~> 1.7"

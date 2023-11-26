@@ -37,7 +37,7 @@ latest_mac_os_num: '13.5'
 latest_mac_os_compatibility_link: 'https://support.apple.com/en-us/HT213264'
 
 # Theme settings
-remote_theme: just-the-docs/just-the-docs@v0.4.0
+remote_theme: just-the-docs/just-the-docs@v0.7.0
 color_scheme: mmntm
 search_enabled: true
 heading_anchors: true
@@ -71,7 +71,6 @@ collections:
     output: true
     nav_exclude: false
 
-
 # Default layouts for each collection type
 defaults:
   - scope:
@@ -89,6 +88,22 @@ defaults:
       type: pages
     values:
       layout: daily_post
+
+# https://just-the-docs.com/docs/configuration/#callouts
+callouts:
+  phase-success:
+    title: Requirements to complete the phase
+    color: brand-branch-green
+  blue:
+    color: brand-royal-blue
+  lt-blue:
+    color: brand-sky-blue
+  violet:
+    color: brand-violet
+  green:
+    color: brand-branch-green
+  red:
+    color: brand-ruby-red
 
 compress_html:
   clippings: all
