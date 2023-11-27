@@ -64,7 +64,7 @@ Instructions in that tutorial are provided both in writing and in the video. Use
 
 You do not need to deploy this application, so you can skip the last section of the tutorial.
 
-This project is due on {{ site.data.projects.react_beginner_tutorial.due_date | date: "%A, %B %e" }}.
+This project is due on {{ site.data.phase3.projects.react_beginner_tutorial.due_date | date: "%A, %B %e" }}.
 
 **Use this link to generate an empty repo on GitHub that you can push your tutorial code to:**
 
