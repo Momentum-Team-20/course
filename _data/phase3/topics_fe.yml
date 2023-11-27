@@ -12,7 +12,8 @@
   date: 2023-09-06
   page: phase3-fe/intro-react.md
   project_name: react_freeshelf
-  code_demo: https://github.com/Momentum-Team-19/example-react-freeshelf-starter
+  published: true
+  code_demo: 
 - title: Components, Props, and State
   tag: fe
   phase: 3
