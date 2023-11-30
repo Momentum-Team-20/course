@@ -9,28 +9,31 @@ layout: resource_list
 
 ## Tutorials
 
-- [Ali Spittel, Beginner's Guide to React Tutorial](https://welearncode.com/beginners-guide-react-2020/).
+- [Ali Spittel, Beginner's Guide to React Tutorial](https://welearncode.com/beginners-guide-react-2020/)
+- [The official React tutorial](https://react.dev/learn/tutorial-tic-tac-toe) - classic, official.
 - [Kent C. Dodds, The Beginner's Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react)
-- [The official (beta) React tutorial](https://beta.reactjs.org/learn/tutorial-tic-tac-toe) - classic, official.
 - [Dave Ceddia, React Tutorial](https://daveceddia.com/react-getting-started-tutorial/)
 
 ## Getting Started
 
-- ⭐ [Official (Beta) React Docs](https://beta.reactjs.org/learn)
+- ⭐ [Official React Docs](https://react.dev/learn/)
 - [React Dev Tools Extension Chrome](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en) Essential. Please install it.
-- [Create React App Docs](https://create-react-app.dev/docs/getting-started)
-- [Older Official React docs](https://reactjs.org/docs/getting-started.html) Uses older class syntax intead of hooks.
+- [Vite documentation](https://vitejs.dev/guide/)
 
 ## React Concepts
 
 - [What is React? A Visual Introduction for Beginners](https://learnreact.design/posts/what-is-react)
 - [React Mental Model: Cutting Holes in HTML](https://learnreact.design/posts/react-mental-model-cut-holes-in-html-template)
 - [Understanding what it means to be declarative instead of imperative - video](https://youtu.be/E7Fbf7R3x6I)
-- [Thinking in React](https://reactjs.org/docs/thinking-in-react.html)
+- [Thinking in React](https://react.dev/learn/thinking-in-react)
 - [Thinking in React 2020](https://dev.to/laserreindeer/thinking-in-react-the-2020-version-4c18)
 - [Thinking "declaratively" in React](https://daveceddia.com/thinking-statefully/)
 - [Why React Re-Renders](https://www.joshwcomeau.com/react/why-react-re-renders/)
 - [Jenn Creighton, React Is Fiction](https://www.youtube.com/watch?v=3s-vgOwNpac)
+
+### More Advanced React Concepts
+
+- [Getting Closure on React Hooks](https://youtu.be/KJP1E-Y-xyo) Shawn Wang codes hooks from scratch to understand what is actually happening with things like useState.
 
 ## Props and State
 
@@ -42,28 +45,37 @@ layout: resource_list
 
 - [Component Design in React](https://marvelapp.com/blog/making-good-component-design-decisions-in-react/)
 
+### UI and Design Best Practices
+
+- [UI best practices for loading, error, and empty states in](https://blog.logrocket.com/ui-design-best-practices-loading-error-empty-state-react/)
+- [The Golden Ratio in UI Design](https://www.nngroup.com/articles/golden-ratio-ui-design/)
+- [Typography for Developers](https://css-tricks.com/typography-for-developers/)
+- [7 Rules for Creating Gorgeous UI](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-1.html)
+- [7 Rules for Creating Gorgeous UI - part 2](https://learnui.design/blog/7-rules-for-creating-gorgeous-ui-part-2.html)
+- [Visual Design Rules You Can Safely Follow](https://anthonyhobday.com/sideprojects/saferules/)
+
 ## Managing State
 
-- [Using the State Hook](https://reactjs.org/docs/hooks-state.html)
-- [Lifting State Up](https://reactjs.org/docs/lifting-state-up.html) -- This is the official doc page, so it includes examples with older React sytax using JavaScript classes for components. To see it with hooks, watch the video [Lifting State Up with Hooks](https://www.youtube.com/watch?v=HF4o9KAZNxw).
-- [React Beta Docs: Managing State](https://beta.reactjs.org/learn/managing-state)
+- [State: A Component's Memory](https://react.dev/learn/state-a-components-memory)
+- [React Docs: `useState`](https://react.dev/reference/react/useState)
+- [Sharing State between Components: Lifting State Up](https://react.dev/learn/sharing-state-between-components)
+- [React Docs: Managing State](https://react.dev/learn/managing-state)
 - [Syntax.fm podcast: State in React](https://syntax.fm/show/170/state-in-react)
 
 ## Conditional Rendering
 
 - [4 Techniques for Conditional Rendering in React](https://linguinecode.com/post/4-techniques-conditional-render-react-props-state)
 - [Conditional Rendering in React](https://www.robinwieruch.de/conditional-rendering-react)
-- [React Official Docs: React Conditional Rendering](https://reactjs.org/docs/conditional-rendering.html)
+- [React Official Docs: React Conditional Rendering](https://react.dev/learn/conditional-rendering)
 - [5 Ways to Implement Conditional Rendering in React](https://blog.bitsrc.io/5-ways-to-implement-conditional-rendering-in-react-64730323b434)
 
 ## Events
 
-- [React Docs: Handling Events in React](https://reactjs.org/docs/handling-events.html)
+- [React Docs: Handling Events in React](https://react.dev/learn/responding-to-events)
 - [Handling onClick Events in React](https://blog.logrocket.com/a-guide-to-react-onclick-event-handlers-d411943b14dd/)
 - [Handing Events in React with examples for functional components](https://www.newline.co/@andreeamaco/how-to-use-react-onclick-events-in-class-and-functional-components--fb63a01e)
-- [Supported Events in React](https://reactjs.org/docs/events.html#supported-events)
 
-## AJAX in React
+## Making HTTP Requests in React
 
 - [Axios on GitHub](https://github.com/axios/axios)
     - [Axios docs: Getting Started](https://axios-http.com/docs/intro)
@@ -71,27 +83,26 @@ layout: resource_list
     - [POST request config](https://github.com/axios/axios#axiosconfig)
     - [Axios Request Config](https://github.com/axios/axios#request-config)
     - [Axios Response Schema](https://github.com/axios/axios#response-schema)
-- [Notes: JS for React](https://github.com/momentumlearn/student-resources/blob/main/articles/js-for-react.md)
-- [React Official Docs: AJAX and APIs](https://reactjs.org/docs/faq-ajax.html)
 - [CORS explained for front-end devs](https://dev.to/lydiahallie/cs-visualized-cors-5b8h)
 
 ## useEffect
 
-- [Official React docs: Using the Effect Hook](https://reactjs.org/docs/hooks-effect.html)
+- [Official React docs: useEffect](https://react.dev/reference/react/useEffect)
 - [Ryan Florence tweet summarizing useEffect](https://twitter.com/ryanflorence/status/1125041041063665666)
 - [Dave Ceddia: How useEffect Works, with Examples](https://daveceddia.com/useeffect-hook-examples/)
 - [A Visual Guide to useEffect](https://alexsidorenko.com/blog/useeffect/)
 
 ## useRef
 
-- [Refs and the DOM](https://reactjs.org/docs/refs-and-the-dom.html) - class-based component examples
-- [useRef hook](https://reactjs.org/docs/hooks-reference.html#useref)
+- [useRef hook](https://react.dev/reference/react/useRef)
+- [Referencing values with Refs](https://react.dev/learn/referencing-values-with-refs)
+- [Manipulating the DOM with Refs](https://react.dev/learn/manipulating-the-dom-with-refs)
 
 ## Custom Hooks
 
 - [Custom hook recipes](https://usehooks.com/)
 - [More custom hooks](https://github.com/streamich/react-use)
-- [Official React docs on custom hooks](https://reactjs.org/docs/hooks-custom.html)
+- [Official React docs: Reusing Logic with Custom Hooks](https://react.dev/learn/reusing-logic-with-custom-hooks)
 
 ### Custom hooks for local storage
 
@@ -102,10 +113,9 @@ layout: resource_list
 
 _See also [JS: Forms][js-forms] and [HTML: Forms][html-forms]_
 
-- [React beta docs API reference: working with `<input>`](https://beta.reactjs.org/reference/react-dom/components/input)
+- [React docs: working with `<input>`](https://react.dev/reference/react-dom/components/input)
 - [React Mental Model: Working with Input](https://learnreact.design/posts/react-mental-model-html-input)
 - [Dave Ceddia: React Forms](https://daveceddia.com/react-forms/)
-- [React Official Docs: Uncontrolled components](https://reactjs.org/docs/uncontrolled-components.html)
 - [Controlled vs uncontrolled form inputs in React](https://goshakkk.name/controlled-vs-uncontrolled-inputs-react/) _This is a good summary of the two options for forms in React, but be aware that the code examples use the older class syntax instead of function components with hooks._
 - [Data Binding in React (Using different form fields and keeping values in sync with state)](https://www.joshwcomeau.com/react/data-binding/)
 
@@ -129,6 +139,7 @@ _See also [JS: Forms][js-forms] and [HTML: Forms][html-forms]_
 
 - [Instructions for deploying a React app to Netlify](https://momentumlearn.notion.site/Deploying-a-React-app-to-Netlify-409f3e2a2ae44ccd857b3797ff0963f8)
 - [Netlify Docs](https://docs.netlify.com/site-deploys/create-deploys/)
+- [Vite on Netlify](https://docs.netlify.com/integrations/frameworks/vite/#app)
 
 ## The Ship-It Mindset
 
@@ -165,6 +176,13 @@ For starters, here are two good takes on how to organize your files.
 - [A Complete Guide to React Router](https://ui.dev/react-router-tutorial/) _really comprehensive, really good_
 - [The Complete Guide to URL Parameters with React Router](https://ui.dev/react-router-url-parameters/)
 
+### Authenticated-Only Routing
+
+Private, or protected, routes are those that are only allowed for logged-in users. You will often want to do this in your application for things like a users' own personal dashboard or a form to create a new resource of some kind.
+
+- [React Router 6: Private Routes (alias Protected Routes)](https://www.robinwieruch.de/react-router-private-routes/)
+- [Protected Routes and Authentication with React Router](https://ui.dev/react-router-protected-routes-authentication)
+
 ## Search
 
 - [Axios Docs: Including search params in the request config](https://github.com/axios/axios#request-config)
@@ -176,5 +194,6 @@ You could also perform a search without making an AJAX request, by filtering dat
 
 - [Create a search bar from scratch](https://blog.logrocket.com/create-search-bar-react-from-scratch/)
 - [How to Build a Search Bar in React](https://www.emgoto.com/react-search-bar/)
+- [MDN Array Filter](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array/filter)
 
 {% include reference_links.md %}
