@@ -1,5 +1,5 @@
 ---
-title: AJAX & APIs
+title: Fetch & APIs
 category: js
 parent: References
 layout: resource_list

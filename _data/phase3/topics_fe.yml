@@ -29,6 +29,7 @@
   page: phase3-fe/fetching-data-with-apis.md
   project_name: react_trivia
   code_demo: https://github.com/Momentum-Team-20/example-react-devs
+  published: true
 - title: Multiple Components and Conditional Rendering
   tag: fe
   phase: 3

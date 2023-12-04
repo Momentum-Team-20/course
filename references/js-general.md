@@ -73,6 +73,8 @@ layout: resource_list
 
 ## AJAX and Fetch
 
+_AJAX is an older, umbrella term for the technique of making requests to a server from JavaScript. It stands for Asynchronous JavaScript and XML. The term "AJAX" isn't used as much anymore. With the Fetch API available in browsers, people usually call them "fetch requests" now._
+
 - [MDN AJAX](https://developer.mozilla.org/en-US/docs/Web/Guide/AJAX)
 - [MDN Fetch API](https://developer.mozilla.org/en-US/docs/Web/API/Fetch_API)
 - [MDN fetch() method](https://developer.mozilla.org/en-US/docs/Web/API/WindowOrWorkerGlobalScope/fetch)
