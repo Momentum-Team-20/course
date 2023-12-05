@@ -33,10 +33,11 @@
 - title: Multiple Components and Conditional Rendering
   tag: fe
   phase: 3
-  date: 2023-09-12
+  date: 2023-12-05
   page: phase3-fe/multiple-components.md
   project_name: react_trivia
   code_demo: https://github.com/Momentum-Team-20/example-react-devs
+  published: true
 - title: Deploying a React App
   tag: fe
   phase: 3
