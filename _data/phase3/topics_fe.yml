@@ -41,10 +41,11 @@
 - title: Deploying a React App
   tag: fe
   phase: 3
-  date: 2023-09-14
+  date: 2023-12-07
   page: phase3-fe/data-and-deployment.md
   project_name: react_color_palettes
   code_demo: https://github.com/Momentum-Team-20/example-react-devs
+  published: true
 - title: Working as a Team to Ship Software
   tag: fe
   phase: 3

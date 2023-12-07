@@ -3,37 +3,33 @@ layout: topic
 title: Deploying a React App
 topic: JavaScript
 category: phase3-fe
-parent: Phase 3 Front End
+parent: Phase 3 Advanced Front End
 nav_order: 6
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
 
-- Check in on project progress
-- Finding & fixing bugs in your project
-- Deploying to [Netlify](https://www.netlify.com/with/react/)
+- Check in on project progress and unblock any issues
+- Deploy your application to [Netlify](https://www.netlify.com/with/react/)
+- "Ensemble programming" a React application
 
-## 🏗️ Project
+## 🏗️ Project: React Trivia | React Color Palettes
 
-The React Trivia application is due on {{ site.data.projects.react_trivia.due_date | date: "%A, %B %e" }}.
+If you haven't finished React Trivia, you should aim to finish that. It is due on {{ site.data.phase3.projects.react_trivia.due_date | date: "%A, %B %e" }}.
 
-It should meet at least the **minimum functional requirements** and must be **deployed to Netlify.** 🚀
+If you have finished it, or finish it early, please do the React Color Palettes project. This project gives you a lot of room for creativity, practice, and experimentation. Depending on how you interpret the requirements, it can be a relatively simple application, or quite complex.
 
-### Minimum functional requirements
+The [React Color Palettes project]({{ site.data.phase3.projects.react_color_palettes.url}}) is due on {{ site.data.phase3.projects.react_color_palettes.due_date | date: "%A, %B %e" }}.
 
-- A user can see a list of categories.
-- A user can select one category.
-- A user can see questions for that category, with answer options for each question.
-- A user can select an answer for a question.
-- A user can see if that answer is the correct answer.
-- A user can go back to the category list and start over.
+Both projects should meet at least the **minimum functional requirements** and must be **deployed to Netlify.** 🚀
+**Please include your production URL in your project's README or on the main page of your GitHub repo.**
 
-#### It would be awesome if...
+## "Ensemble Programming" a React App
 
-- The answers are shuffled so that the correct answer is not always in the same position.
-- The questions are shown one at a time instead of all at once, and the user is able to advance through the set of questions.
-- A user can see how many questions they answered correctly (or some kind of score) when they have answered all the questions in a category.
+Today we will work together to build a React app. We'll be using a technique conventionally called "mob programming", but the term ["ensemble programming" is a bit of a friendlier way to describe it](https://www.lisihocke.com/2021/02/ensemble-is-the-new-mob.html?utm_source=pocket_saves). With this approach, a group of people work together on a single computer to write code. It's a great way to learn from each other and to practice working in a team.
+
+[Here is the repo we'll be working in](https://github.com/Momentum-Team-20/react-team-code). Everyone should clone this it. We'll go over the instructions in the README together.
 
 ## 📖 Read | 📺 Watch | 🎧 Listen
 
@@ -45,10 +41,10 @@ It should meet at least the **minimum functional requirements** and must be **de
 
 ## 🔖 References
 
-- [Instructions for deploying a React App to Netlify]([Instructions for deploying a React app to Netlify](https://momentumlearn.notion.site/Deploying-a-React-app-to-Netlify-409f3e2a2ae44ccd857b3797ff0963f8))
+- [Instructions for deploying a React app to Netlify](https://momentumlearn.notion.site/Deploying-a-React-app-to-Netlify-409f3e2a2ae44ccd857b3797ff0963f8)
 - [Deployment][react-deploy]
 - [Managing State][react-state]
-- [AJAX in React][react-ajax]
+- [Fetching data in React][react-requests]
 - [The useEffect hook][react-use-effect]
 - [Events in React][react-events]
 - [Conditional Rendering Techniques][react-conditional-render]
