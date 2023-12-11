@@ -41,8 +41,8 @@ You're working together to ship a product, on time. Dividing up the work require
 
 Communicating well with your teammates is a critical part of this project. You will need to talk and meet with each other frequently so that you aren't duplicating work or building things that won't work together.
 
-**You also are encouraged to work with the other team to share ideas, advice, approaches, and resources.
-**
+**You also are encouraged to work with the other team to share ideas, advice, approaches, and resources.**
+
 Working with other developers in a shared codebase also means that the way you have been using Git and GitHub so far will have to change. This is definitely going to slow you down at first, but it's part of what you are learning in this project.
 
 ## Planning User Flow
