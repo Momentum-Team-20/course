@@ -1,18 +1,18 @@
 # phase 3 backend
 habit_tracker:
-  url:
+  url: https://classroom.github.com/a/8Luo91mT
   due_date:
 drf_tutorial:
-  url:
+  url: 
   due_date:
 drf_tutorial_guide:
   url:
   due_date:
 drf_choose_your_own_adventure:
-  url:
+  url: https://classroom.github.com/a/Wro_oSkX
   due_date:
 drf_library_api:
-  url:
+  url: 
   due_date:
 
 # phase 3 frontend
