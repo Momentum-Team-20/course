@@ -3,9 +3,9 @@ layout: topic
 title: Search with DRF and Postgres
 topic: Python
 category: phase3-be
-parent: Phase 3 Back End
+parent: Phase 3 Advanced Back End
 nav_order: 10
-published: false
+published: true
 ---
 
 ## 🎯 Objectives

@@ -9,56 +9,55 @@ layout: resource_list
 
 ### Models and Relationships
 
-- [List of all Django Reference content related to Models](https://docs.djangoproject.com/en/4.1/ref/models/)
+- [List of all Django Reference content related to Models](https://docs.djangoproject.com/en/4.2/ref/models/)
 - [Don't forget! Django Best Practices: Custom User Model](https://learndjango.com/tutorials/django-custom-user-model)
-- [Django Docs: Saving Model Instances](https://docs.djangoproject.com/en/4.1/ref/models/instances/#saving-objects)
+- [Django Docs: Saving Model Instances](https://docs.djangoproject.com/en/4.2/ref/models/instances/#saving-objects)
 - [Less Obvious Things to Do with the Django ORM](https://markusholtermann.eu/2019/03/less-obvious-things-to-do-with-djangos-orm/)
 - [🍕 Tips for using Django's Many-to-Many Field](https://www.revsys.com/tidbits/tips-using-djangos-manytomanyfield/)
-- [Django Docs: Related Objects Reference](https://docs.djangoproject.com/en/4.1/ref/models/relations/#related-objects-reference)
-
-### Managers and QuerySets
-
-- [Django Docs: Model Managers](https://docs.djangoproject.com/en/4.1/topics/db/managers)
-- [Django Docs: Related Objects Reference](https://docs.djangoproject.com/en/4.1/ref/models/relations/#related-objects-reference)
-- [Django Docs: QuerySets](https://docs.djangoproject.com/en/4.1/topics/db/queries/#retrieving-objects)
+- [Django Docs: Related Objects Reference](https://docs.djangoproject.com/en/4.2/ref/models/relations/#related-objects-reference)
 
 ### Queries and Lookups
 
 You can think of queries like questions you ask about your data, phrased in a way that the database can answer. Django has a built-in library (the Django ORM) that lets us do all the CRUD actions we need for our application, and more.
 
 - [Django Model Queries CheatSheet]({{ site.team_notes_repo }}/blob/main/django-queries.md)
-- [Django Docs: Retrieving Objects](https://docs.djangoproject.com/en/4.1/topics/db/queries/#retrieving-objects)
-- [Django Docs: Field lookups](https://docs.djangoproject.com/en/4.1/topics/db/queries/#field-lookups)
-- [Django Docs: Lookups that span relationships](https://docs.djangoproject.com/en/4.1/topics/db/queries/#lookups-that-span-relationships)
-- [Django Docs: Lookups with Related objects](https://docs.djangoproject.com/en/4.1/topics/db/queries/#related-objects)
+- [Django Docs: Retrieving Objects](https://docs.djangoproject.com/en/4.2/topics/db/queries/#retrieving-objects)
+- [Django Docs: Field lookups](https://docs.djangoproject.com/en/4.2/topics/db/queries/#field-lookups)
+- [Django Docs: Lookups that span relationships](https://docs.djangoproject.com/en/4.2/topics/db/queries/#lookups-that-span-relationships)
+- [Django Docs: Lookups with Related objects](https://docs.djangoproject.com/en/4.2/topics/db/queries/#related-objects)
 - [Pretty Printed Video: How Model Queries Work in Django](https://youtu.be/WimXjp0ryOo)
 - [Pretty Printed Video: Querying One-to-Many Relationships in Django](https://youtu.be/iwNBwG8RBok )
 
-### QuerySets and Managers
+### QuerySets, Managers, and more advanced queries
 
-- [Django Docs: QuerySets](https://docs.djangoproject.com/en/4.1/topics/db/queries/#retrieving-objects)
-- [Django Docs: Model Managers](https://docs.djangoproject.com/en/4.1/topics/db/managers)
-- [Django Docs: Complex lookups with Q](https://docs.djangoproject.com/en/4.1/topics/db/queries/#complex-lookups-with-q-objects)
-- [Django Docs: Database expressions with F objects](https://docs.djangoproject.com/en/4.1/ref/models/expressions/#django.db.models.F)
+- [Django Docs: QuerySets](https://docs.djangoproject.com/en/4.2/topics/db/queries/#retrieving-objects)
+- [Django Docs: Model Managers](https://docs.djangoproject.com/en/4.2/topics/db/managers)
+- [Django Docs: Complex lookups with Q](https://docs.djangoproject.com/en/4.2/topics/db/queries/#complex-lookups-with-q-objects)
+- [Django Docs: Database expressions with F objects](https://docs.djangoproject.com/en/4.2/ref/models/expressions/#django.db.models.F)
+- [Django Docs: Database Access Optimization](https://docs.djangoproject.com/en/4.2/topics/db/optimization/)
+- [Simple Database Access Optimizations](https://simpleisbetterthancomplex.com/tips/2016/10/05/django-tip-16-simple-database-access-optimizations.html)
+- [Finding and Fixing N+1 Problems](https://blog.sentry.io/finding-and-fixing-django-n-1-problems/)
+- [Optimize Django Query Performance with Prefetch Related](https://simpleisbetterthancomplex.com/tutorial/2019/04/07/how-to-select-annotate-prefetch-related-together.html)
+- [Optimize Django Query Performance by combining Select Related and Prefetch Related](https://johnnymetz.com/posts/combine-select-related-prefetch-related/)
 
 ### Constraints
 
-- [Django Docs: model constraints](https://docs.djangoproject.com/en/4.1/ref/models/options/#constraints) -> this gives you the general format/syntax
-- [Django Docs: UniqueConstraint](https://docs.djangoproject.com/en/4.1/ref/models/constraints/#uniqueconstraint)
+- [Django Docs: model constraints](https://docs.djangoproject.com/en/4.2/ref/models/options/#constraints) -> this gives you the general format/syntax
+- [Django Docs: UniqueConstraint](https://docs.djangoproject.com/en/4.2/ref/models/constraints/#uniqueconstraint)
 
 ### Aggregate and Annotate
 
 - [PrettyPrinted Video: Basics of Django Aggregations](https://youtu.be/2MFAV-arSuI)
 - [Pretty Printed Video: How to Use Annotate in Django](https://youtu.be/KbwmdKl-QbI)
-- [Django docs: Aggregate & Annotate](https://docs.djangoproject.com/en/4.1/topics/db/aggregation/)
-- [Django docs: Combining Aggregations with other QuerySets](https://docs.djangoproject.com/en/4.1/topics/db/aggregation/#s-aggregations-and-other-queryset-clauses)
-- [Django Docs: Aggregation Functions](https://docs.djangoproject.com/en/4.1/ref/models/querysets/#aggregation-functions) (e.g., `Avg`, `Count`, `Min`, `Max`)
+- [Django docs: Aggregate & Annotate](https://docs.djangoproject.com/en/4.2/topics/db/aggregation/)
+- [Django docs: Combining Aggregations with other QuerySets](https://docs.djangoproject.com/en/4.2/topics/db/aggregation/#s-aggregations-and-other-queryset-clauses)
+- [Django Docs: Aggregation Functions](https://docs.djangoproject.com/en/4.2/ref/models/querysets/#aggregation-functions) (e.g., `Avg`, `Count`, `Min`, `Max`)
 
 ### Using the Django Shell
 
 This is about Django's interactive REPL, not pipenv shell, and also not zsh.
 
-- [Django Docs: Using the Django Shell](https://docs.djangoproject.com/en/4.1/ref/django-admin/#shell)
+- [Django Docs: Using the Django Shell](https://docs.djangoproject.com/en/4.2/ref/django-admin/#shell)
 - [How to use django-extensions `shell_plus`](https://django-extensions.readthedocs.io/en/latest/shell_plus.html#shell-plus)
 
 ### SQL

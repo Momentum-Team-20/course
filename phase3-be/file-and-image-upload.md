@@ -3,9 +3,9 @@ layout: topic
 title: File & Image Upload
 topic: Python
 category: phase3-be
-parent: Phase 3 Back End
+parent: Phase 3 Advanced Back End
 nav_order: 11
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
@@ -63,7 +63,7 @@ CORS_ALLOW_HEADERS = list(default_headers) + [
 
 ## 🔖 References
 
-- [DRF File Upload][file-upload]
+- [DRF File Upload][be-file-upload]
 - [CORS][cors]
 - [HTTP Headers][http-headers]
 

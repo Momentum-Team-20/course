@@ -3,9 +3,9 @@ layout: topic
 title: Models & Queries
 topic: Python
 category: phase3-be
-parent: Phase 3 Back End
+parent: Phase 3 Advanced Back End
 nav_order: 2
-published: false
+published: true
 ---
 
 ## 🎯 Objectives
