@@ -61,7 +61,7 @@
   date: 2023-12-12
   page: phase3-fe/auth-in-react.md
   project_name: collaborative_project
-  code_demo: https://github.com/Momentum-Team-20/example-react-library
+  code_demo: https://github.com/Momentum-Team-20/example-react-auth
   published: true
 - title: Forms in React
   tag: fe
@@ -69,7 +69,7 @@
   date:
   page: phase3-fe/react-forms.md
   project_name: collaborative_project
-  code_demo: https://github.com/Momentum-Team-20/example-react-library
+  code_demo: https://github.com/Momentum-Team-20/example-react-auth
   published: false
 - title: Client-side Routing in React
   tag: fe
@@ -77,14 +77,14 @@
   date: 2023-12-14
   page: phase3-fe/react-router.md
   project_name: collaborative_project
-  code_demo: https://github.com/Momentum-Team-20/example-react-library
+  code_demo: https://github.com/Momentum-Team-20/example-react-auth
 - title: Routing with Auth in React
   tag: fe
   phase: 3
   date:
   page: phase3-fe/routing-with-auth.md
   project_name:
-  code_demo: https://github.com/Momentum-Team-20/example-react-library
+  code_demo: https://github.com/Momentum-Team-20/example-react-auth
   published: false
   post_today: true
 - title: Search in React
@@ -93,7 +93,7 @@
   date: 2023-12-18
   page: phase3-fe/search.md
   project_name: collaborative_project
-  code_demo: https://github.com/Momentum-Team-20/example-react-library
+  code_demo: https://github.com/Momentum-Team-20/example-react-auth
   post_today: true
 - title: Uploading Files
   tag: fe
@@ -101,4 +101,4 @@
   date: 2023-12-19
   page: phase3-fe/file-upload.md
   project_name: collaborative_project
-  code_demo: https://github.com/Momentum-Team-20/example-react-library
+  code_demo: https://github.com/Momentum-Team-20/example-react-auth
