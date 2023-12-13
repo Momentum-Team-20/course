@@ -78,6 +78,7 @@
   page: phase3-fe/react-router.md
   project_name: collaborative_project
   code_demo: https://github.com/Momentum-Team-20/example-react-auth
+  published: true
 - title: Routing with Auth in React
   tag: fe
   phase: 3
