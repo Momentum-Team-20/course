@@ -82,11 +82,11 @@
 - title: Routing with Auth in React
   tag: fe
   phase: 3
-  date:
+  date: 2023-12-18
   page: phase3-fe/routing-with-auth.md
   project_name:
   code_demo: https://github.com/Momentum-Team-20/example-react-auth
-  published: false
+  published: true
   post_today: true
 - title: Search in React
   tag: fe

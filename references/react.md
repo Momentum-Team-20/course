@@ -176,6 +176,15 @@ For starters, here are two good takes on how to organize your files.
 - [A Complete Guide to React Router](https://ui.dev/react-router-tutorial/) _really comprehensive, really good_
 - [The Complete Guide to URL Parameters with React Router](https://ui.dev/react-router-url-parameters/)
 
+### Useful React Router Features
+
+These are only a select few of the features in React Router, but they are the ones that you will probably use most often at this point.
+
+- [`<Link>`](https://reactrouter.com/en/main/components/link)
+- [`<Navigate>`](https://reactrouter.com/en/main/components/navigate)
+- [`useNavigate()`](https://reactrouter.com/en/main/hooks/use-navigate)
+- [`useParams()`](https://reactrouter.com/en/main/hooks/use-params)
+
 ### Authenticated-Only Routing
 
 Private, or protected, routes are those that are only allowed for logged-in users. You will often want to do this in your application for things like a users' own personal dashboard or a form to create a new resource of some kind.

@@ -99,6 +99,7 @@
 [react-custom-hooks]: {% link references/react.md %}#custom-hooks
 [ui-best-practices]: {% link references/react.md %}#ui-best-practices
 [protected-routes]: {% link references/react.md %}#authenticated-only-routing
+[useful-react-router]: {% link references/react.md %}#useful-react-router-features
 
 <!-- phase 4 Agile Development -->
 [agile-101]: {% link references/agile-development.md %}#intro-to-agile-development
