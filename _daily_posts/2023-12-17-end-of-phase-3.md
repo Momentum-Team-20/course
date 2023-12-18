@@ -10,11 +10,9 @@ To wrap up Phase 3, you have two things to do:
 1. Finish the Social Cards project with your team and have it working in production.
 2. Pass a short technical interview on basic React skills.
 
-The project is due by {{site.data.phase3.projects.collaborative_project.due_time }} on {{ site.data.phase3.projects.collaborative_project.due_date | date:"%A, %B %-d" }}. Interviews on on Thursday morning during our regular meeting time.
+The project is due by {{site.data.phase3.projects.collaborative_project.due_time }} on {{ site.data.phase3.projects.collaborative_project.due_date | date:"%A, %B %-d" }}. Interviews are on Thursday morning during our regular meeting time.
 
 {:.phase-success}
-
-## Criteria for completing the phase
 
 > - You have made a substantive contribution to the project. A substantive contribution means that you have committed meaningful code in the project repo.
 > - Your application meets the minimum requirements detailed in the assignment.
