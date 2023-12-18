@@ -49,13 +49,17 @@ The interview will take about 15 minutes and will require you to do a small code
 
 Your instructor will let you know at the end of the interview, or shortly after, if you have met the requirements to complete Phase 3.
 
-Interviews will take place on Thursday morning in a breakout room during our regular meeting time.
+Interviews will take place on Thursday morning in a breakout room during our regular meeting time. Time slots for each dev are listed below. 
 
 9:30 Maria
+
 9:50 Jon
+
 10:10 Freddie
+
 10:30 Jose
+
 10:50 Kelsey
+
 11:10 Jordan
 
----
