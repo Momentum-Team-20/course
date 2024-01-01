@@ -1,7 +1,7 @@
 ---
 title: Phase 4
 phase: 4
-published: false
+published: true
 ---
 
 {% assign topics = site.data.phase4.topics | reverse %}
@@ -10,5 +10,5 @@ published: false
 {% for topic in sorted_topics %}
 {{ topic.date | date: "%B %-d" }}
 : {% if topic.page %} [{{ topic.title }}]({% link {{topic.page}} %}){% else %} {{topic.title}} {% endif %}
-: {% if topic.post_today %} [Post]({% link news.md %}){: .label .post-label } {% endif %}
+: {% if topic.post_today %} [Post]({% link posts.md %}){: .label .post-label } {% endif %}
 {% endfor %}

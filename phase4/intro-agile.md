@@ -5,10 +5,10 @@ topic: Agile
 category: phase4
 parent: Phase 4
 nav_order: 1
-published: false
+published: true
 ---
 
-Your goal in this phase is to design and build a real-world software product, working collaboratively on a small team using agile development practices and all the tools you've learned so far, and some you will learn as you go.
+Your goal in this phase is to design and build a real-world software product, working collaboratively on a small team using agile development practices and all the tools and skills you've learned so far, and some you will learn as you go.
 
 **The people skills you'll use will be just as important as the technical skills -- perhaps more so.**
 
@@ -19,7 +19,7 @@ The experience of working on a team during this phase and the product you build 
 ## 🎯 Learning Objectives & Agenda
 
 - What is agile development?
-- Forming final project groups
+- Forming your final project team
 - Brainstorming product ideas
 
 ## 📖 Read | 📺 Watch | 🎧 Listen
@@ -29,15 +29,14 @@ The experience of working on a team during this phase and the product you build 
 
 ## 📽️ Slides
 
-- [Phase Overview slides](https://drive.google.com/file/d/12mWBm_sjzHJctFRV39vbJgvyY6OhYVAU/view?usp=share_link)
+- [Phase Overview slides](https://drive.google.com/file/d/1tLrGn1arZCCX8hWCT_38-4rdIZDqH4ST/view?usp=sharing)
 - [Agile slides](https://drive.google.com/file/d/11FdKfcBitBjs7R6Tqkug7oTn9NWdCltQ/view?usp=share_link)
-- [Idea slides](https://drive.google.com/file/d/16F1Rzg8yEecoBem4WSqcL0MdGuC1Oo_i/view?usp=share_link)
 
 ## 🔖 References
 
 - [Agile Development][agile-development]
 - [Creating a team charter][team-charter]
 - [Managing your time][time-management]
-- [Idea Generation & Inspiration][idea-generation]
+- [Idea generation & inspiration][idea-generation]
 
 {% include reference_links.md %}
