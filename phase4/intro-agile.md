@@ -31,6 +31,8 @@ The experience of working on a team during this phase and the product you build 
 
 - [Phase Overview slides](https://drive.google.com/file/d/1tLrGn1arZCCX8hWCT_38-4rdIZDqH4ST/view?usp=sharing)
 - [Agile slides](https://drive.google.com/file/d/11FdKfcBitBjs7R6Tqkug7oTn9NWdCltQ/view?usp=share_link)
+- [Ideas slides](https://drive.google.com/file/d/16F1Rzg8yEecoBem4WSqcL0MdGuC1Oo_i/view?usp=drive_link)
+- [Team slides](https://drive.google.com/file/d/1-C9xw8n3bK3YYcwwr-Srr4DsnGmngj4q/view?usp=drive_link)
 
 ## 🔖 References
 
