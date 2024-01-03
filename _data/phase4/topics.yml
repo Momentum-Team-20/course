@@ -12,15 +12,17 @@
   post_today: true
 - title: Writing User Stories
   phase: 4
-  date: 2024-01-04
+  date: 2024-01-03
   page: phase4/user-stories.md
-  post_today: true
+  published: true
 - title: Trello and Tasks
   phase: 4
   date: 2024-01-05
   page: phase4/trello-and-tasks.md
   post_today: true
+  published: false
 - title: Ready...Set...Code!
   phase: 4
   date: 2024-01-06
+  published: false
   page: phase4/project-checklists.md

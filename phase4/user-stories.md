@@ -5,22 +5,31 @@ topic: Agile
 category: phase4
 parent: Phase 4
 nav_order: 3
-published: false
+published: true
 ---
 
-## 🎯 Learning Objectives & Agenda
+## 🎯 Objectives
 
 - Figuring out who your users are (and aren't)
-- Using Personas to communicate about your app's users
+- Learn about using personas to communicate about your app's users
 - Map out user flows
 - Create wireframes
-- Writing user stories
+- Write user stories
 
-### Personas & User Stories
+## Determining who your users are
 
 You don't necessarily need to create user personas for your app, but you do need to determine and explicitly define who your users are. Personas may help you do that!
 
-You _do_ need to write user stories. You'll be ready to do this once you can answer the question "What is your app and what does it do?"
+By understanding who your users are and, most importantly, what they need, you can make better decisions about what features to build and what _not_ to build. Knowing who your users are will also clarify and guide your decisions about design and user experience.
+
+With a clear understanding of your users, you are ready to write user stories. **User stories for your project are required.** Before you are ready to do this, you will need to have defined your MVP and created a prioritized list of features, and have made some decisions about who you are building the software for.
+
+## 📋 Planning priorities, in order
+
+1. Definitively answer the question "What is your app and what does it do?" and get 👍 from your instructor to proceed with that idea.
+2. Define MVP and create a prioritized feature list.
+3. Determine who your users are so you understand what they need.
+4. Write user stories for each feature.
 
 ## 🔖 References
 
