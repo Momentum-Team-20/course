@@ -17,12 +17,12 @@
   published: true
 - title: Trello and Tasks
   phase: 4
-  date: 2024-01-05
+  date: 2024-01-04
   page: phase4/trello-and-tasks.md
   post_today: true
-  published: false
+  published: true
 - title: Ready...Set...Code!
   phase: 4
-  date: 2024-01-06
+  date: 2024-01-05
   published: false
   page: phase4/project-checklists.md
